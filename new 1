@@ -5,6 +5,6 @@
     <title>Ma page de testProjet</title>
   </head>
   <body>
-    <img src="C:\Users\CHAMPENOIS\Desktop\COOPOO\World of Zuul Envoyé lors du STEP 4\Images_WOZ\dead" alt="Mon image de test">
+    <img src="images/dead" alt="Mon image de test">
   </body>
 </html>
